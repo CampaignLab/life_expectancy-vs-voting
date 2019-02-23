@@ -1,0 +1,20 @@
+Politics of death
+
+Downloaded data on life expectancy from government website
+
+Built model to find factors that were major predictors of longevity.
+
+Factors included
+
+   o local MP party affiliation
+
+   o margin of victory (percentage votes cast) over second place opponent
+
+   o gender
+
+   o  marital status
+
+Created web page showing life expectancies for each constituency.
+
+Allowed users to select their constituency and and obtain local information.
+
